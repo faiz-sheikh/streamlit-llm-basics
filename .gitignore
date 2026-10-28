@@ -1,0 +1,25 @@
+# Environments and Python caches
+myenv/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+# Local secrets and configuration
+.env
+.env.*
+.streamlit/secrets.toml
+credentials*.json
+secrets.*
+*.pem
+*.key
+# Local data, models and generated files
+.ollama/
+models/
+.cache/
+uploads/
+*.csv
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

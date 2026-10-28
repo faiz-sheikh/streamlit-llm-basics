@@ -1,0 +1,5 @@
+streamlit>=1.49
+langchain-core
+langchain-ollama
+pandas
+numpy

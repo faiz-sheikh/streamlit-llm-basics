@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-label="Illustrated mountain landscape">
+<rect width="640" height="320" fill="#dbeafe"/>
+<circle cx="500" cy="75" r="34" fill="#fbbf24"/>
+<path d="M0 270L175 65L340 270Z" fill="#64748b"/>
+<path d="M175 65L120 130L175 115L225 128Z" fill="#f8fafc"/>
+<path d="M235 280L415 110L640 280Z" fill="#94a3b8"/>
+<path d="M415 110L360 162L415 148L470 152Z" fill="#f8fafc"/>
+<path d="M0 255Q160 225 320 265T640 250V320H0Z" fill="#0f766e"/>
+</svg>
